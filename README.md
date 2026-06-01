@@ -15,7 +15,7 @@ An interactive, data-driven Power BI dashboard analyzing **100k+ Brazilian marke
 A high-level strategic summary of the business health.
 * **Key Metrics:** Delivery Success Rate (97%), Total Orders (99K), Average Order Value ($133), Total Revenue ($13M).
 * **Screenshot:**
-  ![Executive Overview](Executive_Overview.png)
+  ![Executive Overview](Executive%20Overview.png)
 
 ---
 
@@ -23,7 +23,7 @@ A high-level strategic summary of the business health.
 An analysis of commercial performance and category success.
 * **Key Metrics:** Total Sales ($16M), Total Items Sold (113K), Average Items per Order (1.13).
 * **Screenshot:**
-  ![Sales and Products Performance](Sales_Products_Performance.png)
+  ![Sales and Products Performance](Sales%26Products%20Performance.png)
 
 ---
 
@@ -31,7 +31,7 @@ An analysis of commercial performance and category success.
 Focuses on shipping efficiency, logistics, and logistics bottlenecks.
 * **Key Metrics:** Late Delivery % (7.87%), Average Delivery Days (12 Days).
 * **Screenshot:**
-  ![Operations Performance](Operations_Performance.png)
+  ![Operations Performance](Operations%20Performance.png)
 
 ---
 
@@ -39,7 +39,7 @@ Focuses on shipping efficiency, logistics, and logistics bottlenecks.
 Focuses on customer retention and RFM segmentation.
 * **Key Metrics:** Total Customers (96K), Repeat Rate (3.12%), Average Recency (239 Days).
 * **Screenshot:**
-  ![Customers Insights](Customers_Insights.png)
+  ![Customers Insights](Customers%20Insights.png)
 
 ---
 
